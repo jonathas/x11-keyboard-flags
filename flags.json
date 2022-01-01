@@ -1,0 +1,547 @@
+[{
+        "name": "Afghanistan",
+        "code": "af",
+        "shortDescription": "fa",
+        "flag": "🇦🇫"
+    },
+    {
+        "name": "Albania",
+        "code": "al",
+        "shortDescription": "sq",
+        "flag": "🇦🇱"
+    },
+    {
+        "name": "Algeria",
+        "code": "dz",
+        "shortDescription": "kab",
+        "flag": "🇩🇿"
+    },
+    {
+        "name": "Armenia",
+        "code": "am",
+        "shortDescription": "hy",
+        "flag": "🇦🇲"
+    },
+    {
+        "name": "Australia",
+        "code": "au",
+        "shortDescription": "en",
+        "flag": "🇦🇺"
+    },
+    {
+        "name": "Austria",
+        "code": "at",
+        "shortDescription": "de",
+        "flag": "🇦🇹"
+    },
+    {
+        "name": "Azerbaijan",
+        "code": "az",
+        "shortDescription": "az",
+        "flag": "🇦🇿"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "bd",
+        "shortDescription": "bn",
+        "flag": "🇧🇩"
+    },
+    {
+        "name": "Belarus",
+        "code": "by",
+        "shortDescription": "by",
+        "flag": "🇧🇾"
+    },
+    {
+        "name": "Belgium",
+        "code": "be",
+        "shortDescription": "be",
+        "flag": "🇧🇪"
+    },
+    {
+        "name": "Bhutan",
+        "code": "bt",
+        "shortDescription": "dz",
+        "flag": "🇧🇹"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "code": "ba",
+        "shortDescription": "bs",
+        "flag": "🇧🇦"
+    },
+    {
+        "name": "Botswana",
+        "code": "bw",
+        "shortDescription": "tn",
+        "flag": "🇧🇼"
+    },
+    {
+        "name": "Brazil",
+        "code": "br",
+        "shortDescription": "pt",
+        "flag": "🇧🇷"
+    },
+    {
+        "name": "Bulgaria",
+        "code": "bg",
+        "shortDescription": "bg",
+        "flag": "🇧🇬"
+    },
+    {
+        "name": "Cambodia",
+        "code": "kh",
+        "shortDescription": "km",
+        "flag": "🇰🇭"
+    },
+    {
+        "name": "Cameroon",
+        "code": "cm",
+        "shortDescription": "cm",
+        "flag": "🇨🇲"
+    },
+    {
+        "name": "Canada",
+        "code": "ca",
+        "shortDescription": "fr",
+        "flag": "🇨🇦"
+    },
+    {
+        "name": "China",
+        "code": "cn",
+        "shortDescription": "zh",
+        "flag": "🇨🇳"
+    },
+    {
+        "name": "Congo, The Democratic Republic of the",
+        "code": "cd",
+        "shortDescription": "fr",
+        "flag": "🇨🇬"
+    },
+    {
+        "name": "Croatia",
+        "code": "hr",
+        "shortDescription": "hr",
+        "flag": "🇭🇷"
+    },
+    {
+        "name": "Czech Republic",
+        "code": "cz",
+        "shortDescription": "cs",
+        "flag": "🇨🇿"
+    },
+    {
+        "name": "Denmark",
+        "code": "dk",
+        "shortDescription": "da",
+        "flag": "🇩🇰"
+    },
+    {
+        "name": "Estonia",
+        "code": "ee",
+        "shortDescription": "et",
+        "flag": "🇪🇪"
+    },
+    {
+        "name": "Ethiopia",
+        "code": "et",
+        "shortDescription": "am",
+        "flag": "🇪🇹"
+    },
+    {
+        "name": "Faroe Islands",
+        "code": "fo",
+        "shortDescription": "fo",
+        "flag": "🇫🇴"
+    },
+    {
+        "name": "Finland",
+        "code": "fi",
+        "shortDescription": "fi",
+        "flag": "🇫🇮"
+    },
+    {
+        "name": "France",
+        "code": "fr",
+        "shortDescription": "fr",
+        "flag": "🇫🇷"
+    },
+    {
+        "name": "Gabon",
+        "code": "ga",
+        "shortDescription": "gaa",
+        "flag": "🇬🇦"
+    },
+    {
+        "name": "Georgia",
+        "code": "ge",
+        "shortDescription": "ka",
+        "flag": "🇬🇪"
+    },
+    {
+        "name": "Germany",
+        "code": "de",
+        "shortDescription": "de",
+        "flag": "🇩🇪"
+    },
+    {
+        "name": "Ghana",
+        "code": "gh",
+        "shortDescription": "en",
+        "flag": "🇬🇭"
+    },
+    {
+        "name": "Greece",
+        "code": "gr",
+        "shortDescription": "gr",
+        "flag": "🇬🇷"
+    },
+    {
+        "name": "Hungary",
+        "code": "hu",
+        "shortDescription": "hu",
+        "flag": "🇭🇺"
+    },
+    {
+        "name": "Iceland",
+        "code": "is",
+        "shortDescription": "is",
+        "flag": "🇮🇸"
+    },
+    {
+        "name": "India",
+        "code": "in",
+        "shortDescription": "in",
+        "flag": "🇮🇳"
+    },
+    {
+        "name": "Indonesia",
+        "code": "id",
+        "shortDescription": "id",
+        "flag": "🇮🇩"
+    },
+    {
+        "name": "Iran, Islamic Republic Of",
+        "code": "ir",
+        "shortDescription": "fa",
+        "flag": "🇮🇷"
+    },
+    {
+        "name": "Iraq",
+        "code": "iq",
+        "shortDescription": "ar",
+        "flag": "🇮🇶"
+    },
+    {
+        "name": "Ireland",
+        "code": "ie",
+        "shortDescription": "ie",
+        "flag": "🇮🇪"
+    },
+    {
+        "name": "Israel",
+        "code": "il",
+        "shortDescription": "he",
+        "flag": "🇮🇱"
+    },
+    {
+        "name": "Italy",
+        "code": "it",
+        "shortDescription": "it",
+        "flag": "🇮🇹"
+    },
+    {
+        "name": "Japan",
+        "code": "jp",
+        "shortDescription": "jp",
+        "flag": "🇯🇵"
+    },
+    {
+        "name": "Kazakhstan",
+        "code": "kz",
+        "shortDescription": "kk",
+        "flag": "🇰🇿"
+    },
+    {
+        "name": "Kenya",
+        "code": "ke",
+        "shortDescription": "sw",
+        "flag": "🇰🇪"
+    },
+    {
+        "name": "Korea, Republic of",
+        "code": "kr",
+        "shortDescription": "ko",
+        "flag": "🇰🇷"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "code": "kg",
+        "shortDescription": "ki",
+        "flag": "🇰🇬"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "code": "la",
+        "shortDescription": "lo",
+        "flag": "🇱🇦"
+    },
+    {
+        "name": "Latvia",
+        "code": "lv",
+        "shortDescription": "lv",
+        "flag": "🇱🇻"
+    },
+    {
+        "name": "Lithuania",
+        "code": "lt",
+        "shortDescription": "lt",
+        "flag": "🇱🇹"
+    },
+    {
+        "name": "Macedonia, The Former Yugoslav Republic of",
+        "code": "mk",
+        "shortDescription": "mk",
+        "flag": "🇲🇰"
+    },
+    {
+        "name": "Malaysia",
+        "code": "my",
+        "shortDescription": "ms",
+        "flag": "🇲🇾"
+    },
+    {
+        "name": "Maldives",
+        "code": "mv",
+        "shortDescription": "dv",
+        "flag": "🇲🇻"
+    },
+    {
+        "name": "Mali",
+        "code": "ml",
+        "shortDescription": "bm",
+        "flag": "🇲🇱"
+    },
+    {
+        "name": "Malta",
+        "code": "mt",
+        "shortDescription": "mt",
+        "flag": "🇲🇹"
+    },
+    {
+        "name": "Mongolia",
+        "code": "mn",
+        "shortDescription": "mn",
+        "flag": "🇲🇳"
+    },
+    {
+        "name": "Morocco",
+        "code": "ma",
+        "shortDescription": "ar",
+        "flag": "🇲🇦"
+    },
+    {
+        "name": "Myanmar",
+        "code": "mm",
+        "shortDescription": "my",
+        "flag": "🇲🇲"
+    },
+    {
+        "name": "Nepal",
+        "code": "np",
+        "shortDescription": "ne",
+        "flag": "🇳🇵"
+    },
+    {
+        "name": "Netherlands",
+        "code": "nl",
+        "shortDescription": "nl",
+        "flag": "🇳🇱"
+    },
+    {
+        "name": "Nigeria",
+        "code": "ng",
+        "shortDescription": "en",
+        "flag": "🇳🇬"
+    },
+    {
+        "name": "Norway",
+        "code": "no",
+        "shortDescription": "no",
+        "flag": "🇳🇴"
+    },
+    {
+        "name": "Pakistan",
+        "code": "pk",
+        "shortDescription": "ur",
+        "flag": "🇵🇰"
+    },
+    {
+        "name": "Palestinian Territory",
+        "code": "ps",
+        "shortDescription": "ps",
+        "flag": "🇵🇸"
+    },
+    {
+        "name": "Philippines",
+        "code": "ph",
+        "shortDescription": "ph",
+        "flag": "🇵🇭"
+    },
+    {
+        "name": "Poland",
+        "code": "pl",
+        "shortDescription": "pl",
+        "flag": "🇵🇱"
+    },
+    {
+        "name": "Portugal",
+        "code": "pt",
+        "shortDescription": "pt",
+        "flag": "🇵🇹"
+    },
+    {
+        "name": "Romania",
+        "code": "ro",
+        "shortDescription": "ro",
+        "flag": "🇷🇴"
+    },
+    {
+        "name": "Russian Federation",
+        "code": "ru",
+        "shortDescription": "ru",
+        "flag": "🇷🇺"
+    },
+    {
+        "name": "Senegal",
+        "code": "sn",
+        "shortDescription": "wo",
+        "flag": "🇸🇳"
+    },
+    {
+        "name": "Slovakia",
+        "code": "sk",
+        "shortDescription": "sk",
+        "flag": "🇸🇰"
+    },
+    {
+        "name": "Slovenia",
+        "code": "si",
+        "shortDescription": "sl",
+        "flag": "🇸🇮"
+    },
+    {
+        "name": "South Africa",
+        "code": "za",
+        "shortDescription": "en",
+        "flag": "🇿🇦"
+    },
+    {
+        "name": "Spain",
+        "code": "es",
+        "shortDescription": "es",
+        "flag": "🇪🇸"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "lk",
+        "shortDescription": "si",
+        "flag": "🇱🇰"
+    },
+    {
+        "name": "Sweden",
+        "code": "se",
+        "shortDescription": "sv",
+        "flag": "🇸🇪"
+    },
+    {
+        "name": "Switzerland",
+        "code": "ch",
+        "shortDescription": "de",
+        "flag": "🇨🇭"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "code": "sy",
+        "shortDescription": "ar",
+        "flag": "🇸🇾"
+    },
+    {
+        "name": "Taiwan",
+        "code": "tw",
+        "shortDescription": "zh",
+        "flag": "🇹🇼"
+    },
+    {
+        "name": "Tajikistan",
+        "code": "tj",
+        "shortDescription": "tg",
+        "flag": "🇹🇯"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "code": "tz",
+        "shortDescription": "sw",
+        "flag": "🇹🇿"
+    },
+    {
+        "name": "Thailand",
+        "code": "th",
+        "shortDescription": "th",
+        "flag": "🇹🇭"
+    },
+    {
+        "name": "Togo",
+        "code": "tg",
+        "shortDescription": "fr-tg",
+        "flag": "🇹🇬"
+    },
+    {
+        "name": "Turkey",
+        "code": "tr",
+        "shortDescription": "tr",
+        "flag": "🇹🇷"
+    },
+    {
+        "name": "Turkmenistan",
+        "code": "tm",
+        "shortDescription": "tk",
+        "flag": "🇹🇲"
+    },
+    {
+        "name": "Uganda",
+        "code": "ug",
+        "shortDescription": "ug",
+        "flag": "🇺🇬"
+    },
+    {
+        "name": "Ukraine",
+        "code": "ua",
+        "shortDescription": "uk",
+        "flag": "🇺🇦"
+    },
+    {
+        "name": "United Kingdom",
+        "code": "gb",
+        "shortDescription": "en",
+        "flag": "🇬🇧"
+    },
+    {
+        "name": "United States",
+        "code": "us",
+        "shortDescription": "en",
+        "flag": "🇺🇸"
+    },
+    {
+        "name": "Uzbekistan",
+        "code": "uz",
+        "shortDescription": "uz",
+        "flag": "🇺🇿"
+    },
+    {
+        "name": "Vietnam",
+        "code": "vn",
+        "shortDescription": "vi",
+        "flag": "🇻🇳"
+    }
+]
