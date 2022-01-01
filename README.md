@@ -37,3 +37,4 @@ And that's it! After these steps you'll see the flags in your keyboard layout se
 - The flags are emojis copied from [getemoji](https://getemoji.com/#flags) and [emojipedia](https://emojipedia.org/flags/)
 - The script sets these emojis in the evdev.xml file from X11
 - The script makes a backup of the original evdev.xml file before running, if it doesn't exist yet
+- The idea for this script was based in [this post](https://askubuntu.com/questions/1070231/show-flags-instead-of-labels-in-the-keyboard-layout-language-indicator-in-gnome) in Ask Ubuntu.
