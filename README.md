@@ -1,4 +1,4 @@
-# Keyboard layout flags for X11
+# X11 Keyboard layout indicator as country flags
 
 ## About
 
