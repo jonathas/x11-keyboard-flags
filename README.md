@@ -2,7 +2,7 @@
 
 ## About
 
-On Gnome, the keyboard layout is presented as the code of the language which is currently selected. In the example below, the English (US) keyboard layout is selected:
+On [Gnome](https://www.gnome.org/), the keyboard layout is presented as the code of the language which is currently selected. In the example below, the English (US) keyboard layout is selected:
 
 ![Original keyboard layout identifier](./img/original.jpg "Original keyboard layout identifier")
 
