@@ -12,13 +12,25 @@ I don't know about you, but a country flag there looks nicer to me instead of th
 
 Ps: Other keyboard layouts/languages are also available
 
-## Usage
+## Install
 
-Run the main script as root or with sudo.:
+Download it from [AUR](https://aur.archlinux.org/) with [yay](https://github.com/Jguer/yay), for example:
 
 ```bash
-sudo python ./main.py
+yay -S x11-keyboard-flags
 ```
+
+## Usage
+
+Run it with sudo:
+
+```bash
+sudo x11-keyboard-flags
+```
+
+Then reset gnome-shell by pressing Alt+F2 and entering the "r" command
+
+And that's it! After these steps you'll see the flags in your keyboard layout selector.
 
 ## More details
 
