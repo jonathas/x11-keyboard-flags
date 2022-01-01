@@ -4,11 +4,11 @@
 
 On [Gnome](https://www.gnome.org/), the keyboard layout is presented as the code of the language which is currently selected. In the example below, the English (US) keyboard layout is selected:
 
-![Original keyboard layout identifier](./original.jpg "Original keyboard layout identifier")
+![Original keyboard layout identifier](./img/original.jpg "Original keyboard layout identifier")
 
 I don't know about you, but a country flag there looks nicer to me instead of the language. After this script runs, this is what that would look like for the English (US) keyboard layout:
 
-![Modified keyboard layout identifier](./modified.jpg "Modified keyboard layout identifier")
+![Modified keyboard layout identifier](./img/modified.jpg "Modified keyboard layout identifier")
 
 Ps: Other keyboard layouts/languages are also available
 
