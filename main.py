@@ -1,14 +1,22 @@
 #!/usr/bin/env python
 
+from os import path
 from xml.etree import ElementTree
+import shutil
 import json
 
 evdev_path="/usr/share/X11/xkb/rules/evdev.xml"
 
 def main():
+    handle_backup()
     tree = parse_xml()
     set_flags_in_xml(tree)
     write_xml(tree)
+
+def handle_backup():
+    evdev_bkp_path=f"{evdev_path}.bkp"
+    if not path.exists(evdev_bkp_path):
+        shutil.copy(evdev_path, evdev_bkp_path)
 
 def parse_xml():
     parser = ElementTree.XMLParser(target=ElementTree.TreeBuilder(insert_comments=True))
@@ -42,7 +50,7 @@ def get_layout_info(country_code, language, flags):
     return list(filter(lambda x:(x["code"]==country_code and x["shortDescription"]==language), flags))
 
 def write_xml(tree):
-    tree.write("./evdev.xml", encoding='utf-8', xml_declaration=True)
+    tree.write(evdev_path, encoding='utf-8', xml_declaration=True)
 
 if __name__ == "__main__":
     main()
