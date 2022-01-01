@@ -6,6 +6,7 @@ import shutil
 import json
 
 evdev_path="/usr/share/X11/xkb/rules/evdev.xml"
+flags_path="/usr/lib/x11-keyboard-flags/flags.json"
 
 def main():
     handle_backup()
@@ -29,7 +30,7 @@ def set_flags_in_xml(tree):
         set_flag(item, flags)
 
 def load_flags():
-    f = open("./flags.json")
+    f = open(flags_path)
     return json.load(f)
 
 def set_flag(item, flags):
